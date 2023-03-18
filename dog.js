@@ -4,7 +4,7 @@ function get_random_dog_image(){
 
     url = `https://dog.ceo/api/breed/${breed}/images/random`
 
-    if (breed == "all") {url = "https://dog.ceo/api/breeds/image/random"}
+    if (breed == "all") {url = "https://dog.ceo/api/breeds/images/random"}
 
   
   
